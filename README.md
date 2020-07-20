@@ -1,4 +1,5 @@
 # ChatBotBasic
+** The json file is a default file that was pulled off of a website and can be easily modified
 Hi Saul, this is the most basic model that I initially made a couple weeks in, this is the most simple model and will be the least intensive I will make sure to send the more complex files with the reinforcement learning if this is easy to implement
 links to Python Unity tutorials:
 https://docs.unity3d.com/Packages/com.unity.scripting.python@2.0/manual/
